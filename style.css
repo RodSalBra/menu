@@ -5,7 +5,7 @@
 
     @font-face {
         font-family: london;
-        src: url(old_london/OldLondon.ttf) format('opentype'), url(old_london/Olondon_.otf) format('truetype');
+        src: url(OldLondon.ttf) format('opentype'), url(/Olondon_.otf) format('truetype');
     }
     body{
         background-image: linear-gradient(to right, #695326, #FFB338, #FFB45C);
